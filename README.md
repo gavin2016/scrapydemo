@@ -1,2 +1,2 @@
 # scrapydemo
-Python spider sample
+Python爬虫demo，抓取豆瓣小组的帖子内容。phantomjsdemo目录下是独立可运行的文件，利用phantomjs实现抓取js动态输出的数据。
