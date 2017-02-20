@@ -1,0 +1,2 @@
+# scrapydemo
+Python spider sample
